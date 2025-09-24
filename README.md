@@ -1,7 +1,7 @@
-# 🐍 Python Object-Oriented Programming (OOPs) Concepts Project 🚀
+# 🐍 Python Object-Oriented Programming (OOPs) Concepts  🚀
 
 ## Description
-This project demonstrates **Object-Oriented Programming (OOP)** concepts in Python.  
+This is **Object-Oriented Programming (OOP)** concepts in Python.  
 It includes examples and explanations of the main OOP concepts such as:
 
 - **Classes & Objects**
